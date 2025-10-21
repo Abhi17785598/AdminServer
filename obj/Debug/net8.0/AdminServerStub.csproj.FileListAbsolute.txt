@@ -1,0 +1,135 @@
+C:\Users\ASUS\Desktop\Admin and Agent\AdminServerStub\bin\Debug\net8.0\AdminServerStub.exe
+C:\Users\ASUS\Desktop\Admin and Agent\AdminServerStub\bin\Debug\net8.0\AdminServerStub.dll
+C:\Users\ASUS\Desktop\Admin and Agent\AdminServerStub\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\ASUS\Desktop\Admin and Agent\AdminServerStub\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ASUS\Desktop\Admin and Agent\AdminServerStub\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ASUS\Desktop\Admin and Agent\AdminServerStub\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ASUS\Desktop\Admin and Agent\AdminServerStub\bin\Debug\net8.0\AdminServerStub.staticwebassets.endpoints.json
+C:\Users\ASUS\Desktop\Admin and Agent\AdminServerStub\bin\Debug\net8.0\AdminServerStub.deps.json
+C:\Users\ASUS\Desktop\Admin and Agent\AdminServerStub\bin\Debug\net8.0\AdminServerStub.runtimeconfig.json
+C:\Users\ASUS\Desktop\Admin and Agent\AdminServerStub\obj\Debug\net8.0\AdminServerStub.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Admin and Agent\AdminServerStub\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\ASUS\Desktop\Admin and Agent\AdminServerStub\obj\Debug\net8.0\AdminServerStub.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Admin and Agent\AdminServerStub\obj\Debug\net8.0\AdminServerStub.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Admin and Agent\AdminServerStub\obj\Debug\net8.0\AdminServerStub.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Admin and Agent\AdminServerStub\obj\Debug\net8.0\AdminServerStub.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Admin and Agent\AdminServerStub\obj\Debug\net8.0\AdminServerStub.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ASUS\Desktop\Admin and Agent\AdminServerStub\obj\Debug\net8.0\AdminServerStub.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ASUS\Desktop\Admin and Agent\AdminServerStub\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\ASUS\Desktop\Admin and Agent\AdminServerStub\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\ASUS\Desktop\Admin and Agent\AdminServerStub\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\ASUS\Desktop\Admin and Agent\AdminServerStub\obj\Debug\net8.0\scopedcss\bundle\AdminServerStub.styles.css
+C:\Users\ASUS\Desktop\Admin and Agent\AdminServerStub\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ASUS\Desktop\Admin and Agent\AdminServerStub\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\ASUS\Desktop\Admin and Agent\AdminServerStub\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ASUS\Desktop\Admin and Agent\AdminServerStub\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\ASUS\Desktop\Admin and Agent\AdminServerStub\obj\Debug\net8.0\AdminSer.D07217A5.Up2Date
+C:\Users\ASUS\Desktop\Admin and Agent\AdminServerStub\obj\Debug\net8.0\AdminServerStub.dll
+C:\Users\ASUS\Desktop\Admin and Agent\AdminServerStub\obj\Debug\net8.0\refint\AdminServerStub.dll
+C:\Users\ASUS\Desktop\Admin and Agent\AdminServerStub\obj\Debug\net8.0\AdminServerStub.pdb
+C:\Users\ASUS\Desktop\Admin and Agent\AdminServerStub\obj\Debug\net8.0\AdminServerStub.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\Admin and Agent\Adminserverstub\bin\Debug\net8.0\AdminServerStub.pdb
+C:\Users\ASUS\Desktop\Admin and Agent\Adminserverstub\obj\Debug\net8.0\ref\AdminServerStub.dll
+C:\Users\ASUS\Desktop\Big Project\AdminServerStub\bin\Debug\net8.0\AdminServerStub.staticwebassets.endpoints.json
+C:\Users\ASUS\Desktop\Big Project\AdminServerStub\bin\Debug\net8.0\AdminServerStub.exe
+C:\Users\ASUS\Desktop\Big Project\AdminServerStub\bin\Debug\net8.0\AdminServerStub.deps.json
+C:\Users\ASUS\Desktop\Big Project\AdminServerStub\bin\Debug\net8.0\AdminServerStub.runtimeconfig.json
+C:\Users\ASUS\Desktop\Big Project\AdminServerStub\bin\Debug\net8.0\AdminServerStub.dll
+C:\Users\ASUS\Desktop\Big Project\AdminServerStub\bin\Debug\net8.0\AdminServerStub.pdb
+C:\Users\ASUS\Desktop\Big Project\AdminServerStub\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\ASUS\Desktop\Big Project\AdminServerStub\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ASUS\Desktop\Big Project\AdminServerStub\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ASUS\Desktop\Big Project\AdminServerStub\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ASUS\Desktop\Big Project\AdminServerStub\obj\Debug\net8.0\AdminServerStub.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Big Project\AdminServerStub\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\ASUS\Desktop\Big Project\AdminServerStub\obj\Debug\net8.0\AdminServerStub.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Big Project\AdminServerStub\obj\Debug\net8.0\AdminServerStub.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Big Project\AdminServerStub\obj\Debug\net8.0\AdminServerStub.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Big Project\AdminServerStub\obj\Debug\net8.0\AdminServerStub.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Big Project\AdminServerStub\obj\Debug\net8.0\AdminServerStub.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ASUS\Desktop\Big Project\AdminServerStub\obj\Debug\net8.0\AdminServerStub.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ASUS\Desktop\Big Project\AdminServerStub\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\ASUS\Desktop\Big Project\AdminServerStub\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\ASUS\Desktop\Big Project\AdminServerStub\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\ASUS\Desktop\Big Project\AdminServerStub\obj\Debug\net8.0\scopedcss\bundle\AdminServerStub.styles.css
+C:\Users\ASUS\Desktop\Big Project\AdminServerStub\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ASUS\Desktop\Big Project\AdminServerStub\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\ASUS\Desktop\Big Project\AdminServerStub\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ASUS\Desktop\Big Project\AdminServerStub\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\ASUS\Desktop\Big Project\AdminServerStub\obj\Debug\net8.0\AdminSer.D07217A5.Up2Date
+C:\Users\ASUS\Desktop\Big Project\AdminServerStub\obj\Debug\net8.0\AdminServerStub.dll
+C:\Users\ASUS\Desktop\Big Project\AdminServerStub\obj\Debug\net8.0\refint\AdminServerStub.dll
+C:\Users\ASUS\Desktop\Big Project\AdminServerStub\obj\Debug\net8.0\AdminServerStub.pdb
+C:\Users\ASUS\Desktop\Big Project\AdminServerStub\obj\Debug\net8.0\AdminServerStub.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\Big Project\AdminServerStub\obj\Debug\net8.0\ref\AdminServerStub.dll
+C:\Users\ASUS\Desktop\Big Project\AdminServerStub\obj\Debug\net8.0\AdminServerStub.sourcelink.json
+C:\Users\ASUS\Desktop\UpdatedAdmin\AdminServerStub\bin\Debug\net8.0\AdminServerStub.staticwebassets.endpoints.json
+C:\Users\ASUS\Desktop\UpdatedAdmin\AdminServerStub\bin\Debug\net8.0\AdminServerStub.exe
+C:\Users\ASUS\Desktop\UpdatedAdmin\AdminServerStub\bin\Debug\net8.0\AdminServerStub.deps.json
+C:\Users\ASUS\Desktop\UpdatedAdmin\AdminServerStub\bin\Debug\net8.0\AdminServerStub.runtimeconfig.json
+C:\Users\ASUS\Desktop\UpdatedAdmin\AdminServerStub\bin\Debug\net8.0\AdminServerStub.dll
+C:\Users\ASUS\Desktop\UpdatedAdmin\AdminServerStub\bin\Debug\net8.0\AdminServerStub.pdb
+C:\Users\ASUS\Desktop\UpdatedAdmin\AdminServerStub\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\ASUS\Desktop\UpdatedAdmin\AdminServerStub\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ASUS\Desktop\UpdatedAdmin\AdminServerStub\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ASUS\Desktop\UpdatedAdmin\AdminServerStub\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ASUS\Desktop\UpdatedAdmin\AdminServerStub\obj\Debug\net8.0\AdminServerStub.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\UpdatedAdmin\AdminServerStub\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\ASUS\Desktop\UpdatedAdmin\AdminServerStub\obj\Debug\net8.0\AdminServerStub.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\UpdatedAdmin\AdminServerStub\obj\Debug\net8.0\AdminServerStub.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\UpdatedAdmin\AdminServerStub\obj\Debug\net8.0\AdminServerStub.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\UpdatedAdmin\AdminServerStub\obj\Debug\net8.0\AdminServerStub.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\UpdatedAdmin\AdminServerStub\obj\Debug\net8.0\AdminServerStub.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ASUS\Desktop\UpdatedAdmin\AdminServerStub\obj\Debug\net8.0\AdminServerStub.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ASUS\Desktop\UpdatedAdmin\AdminServerStub\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\ASUS\Desktop\UpdatedAdmin\AdminServerStub\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\ASUS\Desktop\UpdatedAdmin\AdminServerStub\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\ASUS\Desktop\UpdatedAdmin\AdminServerStub\obj\Debug\net8.0\scopedcss\bundle\AdminServerStub.styles.css
+C:\Users\ASUS\Desktop\UpdatedAdmin\AdminServerStub\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ASUS\Desktop\UpdatedAdmin\AdminServerStub\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\ASUS\Desktop\UpdatedAdmin\AdminServerStub\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ASUS\Desktop\UpdatedAdmin\AdminServerStub\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\ASUS\Desktop\UpdatedAdmin\AdminServerStub\obj\Debug\net8.0\AdminSer.D07217A5.Up2Date
+C:\Users\ASUS\Desktop\UpdatedAdmin\AdminServerStub\obj\Debug\net8.0\AdminServerStub.dll
+C:\Users\ASUS\Desktop\UpdatedAdmin\AdminServerStub\obj\Debug\net8.0\refint\AdminServerStub.dll
+C:\Users\ASUS\Desktop\UpdatedAdmin\AdminServerStub\obj\Debug\net8.0\AdminServerStub.pdb
+C:\Users\ASUS\Desktop\UpdatedAdmin\AdminServerStub\obj\Debug\net8.0\AdminServerStub.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\UpdatedAdmin\AdminServerStub\obj\Debug\net8.0\ref\AdminServerStub.dll
+C:\Users\ASUS\Desktop\UpdatedAdmin\AdminServerStub\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\ASUS\Desktop\UpdatedAdmin\AdminServerStub\bin\Debug\net8.0\System.Management.dll
+C:\Users\ASUS\Desktop\UpdatedAdmin\AdminServerStub\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Management.dll
+C:\Users\ASUS\Desktop\updatedsukh\AdminServerStub\bin\Debug\net8.0\AdminServerStub.staticwebassets.endpoints.json
+C:\Users\ASUS\Desktop\updatedsukh\AdminServerStub\bin\Debug\net8.0\AdminServerStub.exe
+C:\Users\ASUS\Desktop\updatedsukh\AdminServerStub\bin\Debug\net8.0\AdminServerStub.deps.json
+C:\Users\ASUS\Desktop\updatedsukh\AdminServerStub\bin\Debug\net8.0\AdminServerStub.runtimeconfig.json
+C:\Users\ASUS\Desktop\updatedsukh\AdminServerStub\bin\Debug\net8.0\AdminServerStub.dll
+C:\Users\ASUS\Desktop\updatedsukh\AdminServerStub\bin\Debug\net8.0\AdminServerStub.pdb
+C:\Users\ASUS\Desktop\updatedsukh\AdminServerStub\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\ASUS\Desktop\updatedsukh\AdminServerStub\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ASUS\Desktop\updatedsukh\AdminServerStub\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ASUS\Desktop\updatedsukh\AdminServerStub\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ASUS\Desktop\updatedsukh\AdminServerStub\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\ASUS\Desktop\updatedsukh\AdminServerStub\bin\Debug\net8.0\System.Management.dll
+C:\Users\ASUS\Desktop\updatedsukh\AdminServerStub\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Management.dll
+C:\Users\ASUS\Desktop\updatedsukh\AdminServerStub\obj\Debug\net8.0\AdminServerStub.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\updatedsukh\AdminServerStub\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\ASUS\Desktop\updatedsukh\AdminServerStub\obj\Debug\net8.0\AdminServerStub.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\updatedsukh\AdminServerStub\obj\Debug\net8.0\AdminServerStub.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\updatedsukh\AdminServerStub\obj\Debug\net8.0\AdminServerStub.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\updatedsukh\AdminServerStub\obj\Debug\net8.0\AdminServerStub.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\updatedsukh\AdminServerStub\obj\Debug\net8.0\AdminServerStub.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ASUS\Desktop\updatedsukh\AdminServerStub\obj\Debug\net8.0\AdminServerStub.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ASUS\Desktop\updatedsukh\AdminServerStub\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\ASUS\Desktop\updatedsukh\AdminServerStub\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\ASUS\Desktop\updatedsukh\AdminServerStub\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\ASUS\Desktop\updatedsukh\AdminServerStub\obj\Debug\net8.0\scopedcss\bundle\AdminServerStub.styles.css
+C:\Users\ASUS\Desktop\updatedsukh\AdminServerStub\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ASUS\Desktop\updatedsukh\AdminServerStub\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\ASUS\Desktop\updatedsukh\AdminServerStub\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ASUS\Desktop\updatedsukh\AdminServerStub\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\ASUS\Desktop\updatedsukh\AdminServerStub\obj\Debug\net8.0\AdminSer.D07217A5.Up2Date
+C:\Users\ASUS\Desktop\updatedsukh\AdminServerStub\obj\Debug\net8.0\AdminServerStub.dll
+C:\Users\ASUS\Desktop\updatedsukh\AdminServerStub\obj\Debug\net8.0\refint\AdminServerStub.dll
+C:\Users\ASUS\Desktop\updatedsukh\AdminServerStub\obj\Debug\net8.0\AdminServerStub.pdb
+C:\Users\ASUS\Desktop\updatedsukh\AdminServerStub\obj\Debug\net8.0\AdminServerStub.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\updatedsukh\AdminServerStub\obj\Debug\net8.0\ref\AdminServerStub.dll
