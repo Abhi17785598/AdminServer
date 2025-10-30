@@ -1,0 +1,22 @@
+## Visual Studio / .NET
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## OS / tooling
+.DS_Store
+Thumbs.db
+
+## Archives
+AdminServerStub.zip
+*.zip
+
+## Logs
+*.log
+
+## Node (if any future UI)
+node_modules/
